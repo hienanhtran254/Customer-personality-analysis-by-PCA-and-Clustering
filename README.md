@@ -45,7 +45,7 @@ After saving the loading value into each variable, we would then group them to s
 
 After using Factor Analysis as a denoising step, we would do the Hierarchical and K-means clustering methods to have a better look at customers segment. For Hierarchical clustering, we have tried 3 methods (ward, complete and average), but then choose the `ward` method as it gives a better look at the branch (Fig 7). Additionally, we also use the K-means method to label our customers. With plotting the number of clusters vs inertia_K, it looks like the best number of clusters varies from 3 to 5 (Fig 8).
 
-
+![image](https://user-images.githubusercontent.com/92025453/166338798-6b280456-e6ff-4e80-8573-ae62643eb1ba.png)
 Figure 7. Hierarchical clustering based on ‘ward’ method
 
 ![image](https://user-images.githubusercontent.com/92025453/166337860-98f00f08-e2c7-4df3-9c1a-21a91de97366.png)
@@ -60,7 +60,7 @@ After considering the snake plot of different numbers of clusters, we then choos
 Overall, details for each cluster can be visualised in the plots below:
 (Note: the plots in part 4, except for the snake plot, are interactive. Please kindly run the code to open them.)
 
-
+![image](https://user-images.githubusercontent.com/92025453/166338673-9ca29934-db1f-4e52-8832-3954dac8c5ff.png)
 Figure 10. Snake plot of 3 clusters
 
 ![image](https://user-images.githubusercontent.com/92025453/166337970-bb2ee80c-39a8-4d13-abb5-d86a26ef4383.png)
