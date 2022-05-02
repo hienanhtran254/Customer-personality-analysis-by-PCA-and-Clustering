@@ -8,7 +8,7 @@ For understanding customer personality and delivering a proper marketing strateg
 ## 3. Results of finding
 ### a. Supervised learning
 
-[Figure 1. Variable importance](https://hienanhtran254.github.io/customer-personality-analysis-HTenkanen/1.Importance.html)
+[Figure 1. Variable importance](https://hienanhtran254.github.io/customer-personality-analysis-254/1.Importance.html)
 
 (https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
 
