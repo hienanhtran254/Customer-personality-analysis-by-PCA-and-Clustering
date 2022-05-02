@@ -8,6 +8,7 @@ For understanding customer personality and delivering a proper marketing strateg
 ## 3. Results of finding
 ### a. Supervised learning
 
+[Figure 1. Variable importance](https://github.com/hienanhtran254/customer-personality-analysis/blob/6d87d64f676469da1f83c9f3d757e29da1432ec7/graphs/1.Importance.html)
 
 As making profit is the key of a business, we decided to use the variable of Total_Expenses as an independent variable. By fitting decision tree regressor and random forest regressor models with optimised 20 leaves, which produce low RMSE values for the test set, we decided to choose the random forest model and variables importance plot to determine which variables are important when considering a customer. Based on Figure 1, the 3 most important variables are Income, Total_purchase, and Total_childs. 
 
